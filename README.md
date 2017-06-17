@@ -1,2 +1,2 @@
 # linkedListJS
-Linked list data stractur implementer with JavaScript
+Linked list data structur implemented with JavaScript
